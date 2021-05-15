@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Image } from 'react-native';
+import { StyleSheet, Image, Text } from 'react-native';
 import MapView, { Marker } from 'react-native-maps';
 
 class BarajMap extends React.Component {
@@ -128,6 +128,7 @@ class BarajMap extends React.Component {
                         title={maker.title}
                         onPress={() => this.makerClick(maker)}
                     >
+                        <Text>{maker.title}</Text>
                         <Image
                             source={maker.image}
                             style={{

@@ -32,7 +32,7 @@ A boilerplate and reference implementation for mobile applications built with Re
 npm install
 
 # run bundler
-npm run serve
+npm run start
 
 # run on Android device/emulator
 npm run android
