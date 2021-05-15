@@ -6,7 +6,7 @@ A boilerplate and reference implementation for mobile applications built with Re
 
 ## Preview
 
-- [iOS](https://appetize.io/app/y3mug60jc338qhrbpnaduhf7k8)
+- [iOS](https://appetize.io/app/z4gw64czy2whbq4qhr11bcchb4)
 
 ## Technology
 
